@@ -1,0 +1,6 @@
+#surefire_0
+#Thu Mar 13 20:06:34 GMT 2025
+basedir=/home/dc24201/Downloads/JAVA/cw-db
+test=edu.uob.ExampleDBTests
+user.dir=/home/dc24201/Downloads/JAVA/cw-db
+localRepository=/home/dc24201/.m2/repository
